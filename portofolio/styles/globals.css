@@ -6,7 +6,6 @@ html,
 body {
   padding: 0;
   margin: 0;
-
 }
 
 a {
@@ -22,5 +21,7 @@ a {
   font-family: "burtons";
   src: url("../public/Burtons.otf");
 }
-
-
+@font-face {
+  font-family: "melody";
+  src: url("../public/melody.ttf");
+}
